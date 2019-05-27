@@ -1,3 +1,3 @@
 # hello-world
-Just another repisitory
+Just another repository
 This is a commit message that changes this branch
